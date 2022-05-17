@@ -3,8 +3,10 @@ package basicProject2;
 public class helloworld {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		char a = ' *';
+		int b = 4;
+				
+		System.out.println(a*b);
 	}
 
 }
