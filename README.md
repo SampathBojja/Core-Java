@@ -1,2 +1,2 @@
 # capgTraining
-capgTraining repository
+CORE JAVA capgTraining repository
